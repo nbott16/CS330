@@ -1,1 +1,6 @@
 # CS330
+I feel like the best thing I imporved upon with this project is finding errors and looking at other projects similar to what I am making to fix my issues. For example, if I was stuck on something and my questions did not get answered I would go to the OpenGL sample from the first week to see how they had whatver I was working on ocded to see what I could change in my own code.
+
+I think a good development strategy that I kind of found by accident was when I did my project proposal and said the shapes I thougth wold wor, it was reccomended to me that I don't use some of the shapes so I went back to the drarwing board and found a better solution that I think made it easier in the long run. My approach to developing code has changed by trying to be open to newe ideas and being flexible instead of sticking ot one thing because there might be a better or easier way that I did not think of.
+
+I think the computational graphics and visualizations will help me in my future becuase this was probaly my favorite thing to do thus far in my educational journey so I think this is an oppurtunity to look inot roles in the future that are more directed twoards graphics because I really enjoy seeing what I create as I am creating it.
